@@ -1,0 +1,14 @@
+C:\Users\nasra\Desktop\varibal tybe\obj\Debug\net8.0\varibal tybe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasra\Desktop\varibal tybe\obj\Debug\net8.0\varibal tybe.AssemblyInfoInputs.cache
+C:\Users\nasra\Desktop\varibal tybe\obj\Debug\net8.0\varibal tybe.AssemblyInfo.cs
+C:\Users\nasra\Desktop\varibal tybe\obj\Debug\net8.0\varibal tybe.csproj.CoreCompileInputs.cache
+C:\Users\nasra\Desktop\varibal tybe\bin\Debug\net8.0\varibal tybe.exe
+C:\Users\nasra\Desktop\varibal tybe\bin\Debug\net8.0\varibal tybe.deps.json
+C:\Users\nasra\Desktop\varibal tybe\bin\Debug\net8.0\varibal tybe.runtimeconfig.json
+C:\Users\nasra\Desktop\varibal tybe\bin\Debug\net8.0\varibal tybe.dll
+C:\Users\nasra\Desktop\varibal tybe\bin\Debug\net8.0\varibal tybe.pdb
+C:\Users\nasra\Desktop\varibal tybe\obj\Debug\net8.0\varibal tybe.dll
+C:\Users\nasra\Desktop\varibal tybe\obj\Debug\net8.0\refint\varibal tybe.dll
+C:\Users\nasra\Desktop\varibal tybe\obj\Debug\net8.0\varibal tybe.pdb
+C:\Users\nasra\Desktop\varibal tybe\obj\Debug\net8.0\varibal tybe.genruntimeconfig.cache
+C:\Users\nasra\Desktop\varibal tybe\obj\Debug\net8.0\ref\varibal tybe.dll
